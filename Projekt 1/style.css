@@ -177,7 +177,6 @@ p {
       font-weight: 400;
       font-size: 18px;
       line-height: 21.09px;
-      color: white;
         }
 .Person2 {
       width: 80%;
@@ -242,6 +241,7 @@ p {
 footer {
       height: 71px;
       background: #4E4E4E;
+      color: white;
       }
 .footer-container {
       height: 100%;
